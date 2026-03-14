@@ -84,5 +84,3 @@ Deliverables completed:
 - Matplotlib
 - Math utilities (`math` / `scipy`-style numerical workflow where needed)
 
-## Author
-Coursework project by `Student ID: 36638811`.
